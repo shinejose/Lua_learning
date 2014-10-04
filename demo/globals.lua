@@ -1,3 +1,9 @@
+--- 这是一个测试用的Lua模块
+-- 在此处，我们添加模块的描述
+-- @module Person
+-- @author xuweirong
+-- @license gnu
+
 -- globals.lua
 -- show all global variables
 
